@@ -1,4 +1,5 @@
 extern crate rsrl;
+extern crate openblas_src;
 
 use rand::thread_rng;
 use rsrl::{
